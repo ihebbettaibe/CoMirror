@@ -18,7 +18,7 @@ Brightsteps is an innovative platform designed to empower deaf children by helpi
 3. **Progress Tracking**: Tracks learning progress and provides insights to parents and educators.
 
 ## Technologies Used
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: react 
 - **Backend**: FastAPI, WebSocket
 - **Machine Learning**: MediaPipe, RandomForestClassifier
 - **Deployment**: Uvicorn, Python HTTP Server
